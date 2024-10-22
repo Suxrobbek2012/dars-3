@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding-top: 76px;
+}
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.item{
+    color:blueviolet;
+    font-size: 32px;
+    font-weight: 700;
+}
+.kol{
+    background-color: black;
+    width: 1500px;
+    height: 1500px;
+}
+.hol{
+    background-color: aliceblue;
+    width: 900px;
+    height: 1400px;
+    margin: 0 auto;
+}
+.hero{
+    padding-top: 128px;
+}
+.title{
+    color: rgb(0, 0, 0);
+font-size: 64px;
+font-weight: 700;
+text-align: left;
+text-align: center;
+}
+.bola{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    padding-left: 24px;
+    text-align: center;
+    margin: 0  auto;
+}
+.ota{
+    padding: 10px;
+   border: 1px solid;
+}
